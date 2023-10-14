@@ -1,0 +1,15 @@
+C:\Users\kurol\Examples\МАША\bin\Debug\net6.0\МАША.exe
+C:\Users\kurol\Examples\МАША\bin\Debug\net6.0\МАША.deps.json
+C:\Users\kurol\Examples\МАША\bin\Debug\net6.0\МАША.runtimeconfig.json
+C:\Users\kurol\Examples\МАША\bin\Debug\net6.0\МАША.dll
+C:\Users\kurol\Examples\МАША\bin\Debug\net6.0\МАША.pdb
+C:\Users\kurol\Examples\МАША\obj\Debug\net6.0\МАША.csproj.AssemblyReference.cache
+C:\Users\kurol\Examples\МАША\obj\Debug\net6.0\МАША.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurol\Examples\МАША\obj\Debug\net6.0\МАША.AssemblyInfoInputs.cache
+C:\Users\kurol\Examples\МАША\obj\Debug\net6.0\МАША.AssemblyInfo.cs
+C:\Users\kurol\Examples\МАША\obj\Debug\net6.0\МАША.csproj.CoreCompileInputs.cache
+C:\Users\kurol\Examples\МАША\obj\Debug\net6.0\МАША.dll
+C:\Users\kurol\Examples\МАША\obj\Debug\net6.0\refint\МАША.dll
+C:\Users\kurol\Examples\МАША\obj\Debug\net6.0\МАША.pdb
+C:\Users\kurol\Examples\МАША\obj\Debug\net6.0\МАША.genruntimeconfig.cache
+C:\Users\kurol\Examples\МАША\obj\Debug\net6.0\ref\МАША.dll
